@@ -6,8 +6,7 @@
 
 var configuration = {
     //The base Uri for API calls
-    BASEURI : "https://api.magictelecom.dev/app_dev.php",
-	USERNAME : 'admin@magictelecom.com',
+    BASEURI : "https://api.magictelecom.com",
     APITOKEN : 'thisismysupperduppersecrettoken'
 
 };
